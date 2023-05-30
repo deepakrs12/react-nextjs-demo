@@ -3,8 +3,8 @@
 A basic todo app developed to understand the fundamentals of Next.js using typescript with Prisma as ORM for using SQLite DB.
 
 Command to create the project - 
-  > * if already inside required folder -> 
-    > npx create-next-app@latest . ;
+  > * if already inside required folder
+    > npx create-next-app@latest .
   > * else to automatically generate folder with necessary files 
     > npx create-next-app@latest <project-name>
   
