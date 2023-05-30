@@ -7,9 +7,9 @@ Command to create the project -
   > * to automatically generate folder with necessary files `npx create-next-app@latest <project-name>`
   
 Setup Prisam - 
-  > * npm i prisma --save-dev
-  > * npx prisma init --datasource-provider sqlite
-  > * create necessary schema for DB tables in  schema.prisma file
-  > * npx prisma migrate dev --name <db-name>
+  > * install prisma `npm i prisma --save-dev`
+  > * initialise prisma `npx prisma init --datasource-provider sqlite`
+  > * create necessary schema for DB tables in schema.prisma file
+  > * to create actual db file `npx prisma migrate dev --name <db-name>`
 
 To access PrismaClient anywhere in the project refer the code used in db.ts file.
