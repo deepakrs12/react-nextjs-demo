@@ -6,7 +6,7 @@ Command to create the project -
   > * already inside required folder
     > npx create-next-app@latest .
   > * to automatically generate folder with necessary files 
-    > npx create-next-app@latest <project-name>
+    > npx create-next-app@latest `project-name`
   
 Setup Prisam - 
   > * npm i prisma --save-dev
