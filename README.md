@@ -17,5 +17,5 @@ To access PrismaClient anywhere in the project refer the code used in db.ts file
 Command to run the project -
   > `npm run dev`
 
-Command to view DB in prisma studio - 
+Command to view created DB in GUI - 
   > `npx prisma studio`
